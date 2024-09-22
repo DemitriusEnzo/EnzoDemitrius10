@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello,
 
 I am Enzo Demitrius, a Systems Information student with a focus on Full-Stack development.  
 In my projects, I've explored technologies such as Node.js, Express, React.js, and more to build efficient APIs and dynamic front-end interfaces.
